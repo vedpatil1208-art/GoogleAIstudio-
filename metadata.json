@@ -1,0 +1,5 @@
+{
+  "name": "Sales Prediction Dashboard",
+  "description": "An interactive dashboard that analyzes historical sales data and provides future sales predictions for the next month and quarter, enhanced with AI-powered insights from Gemini.",
+  "requestFramePermissions": []
+}
